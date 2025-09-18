@@ -11,7 +11,7 @@ namespace Tyuiu.SafronovVE.Sprint3.Task4.V17.Test
             int startValue = -5;
             int stopValue = 5;
             var res = ds.Calculate(startValue, stopValue);
-            var wait = 6.263;
+            var wait = 0.527;
             Assert.AreEqual(wait, res);
         }
     }
