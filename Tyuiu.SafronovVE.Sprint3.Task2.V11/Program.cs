@@ -28,7 +28,7 @@ internal class Program
 
         Console.WriteLine("Значение переменной X = " + value);
         Console.WriteLine("Старт шага = " + startValue);
-        Console.WriteLine("Старт шага = " + stopValue);
+        Console.WriteLine("Конец шага = " + stopValue);
 
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
